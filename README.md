@@ -1,6 +1,6 @@
 # Fitting Poisson  distribution
-# Name: Divyashree B
-# Register no: 212224040081
+# Name: 
+# Register no: 
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
